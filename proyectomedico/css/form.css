@@ -1,0 +1,44 @@
+
+
+/*--IMAGEN-DE-FONDO--------------*/
+body {
+  
+font-family: montserrat;
+background: white;
+
+}
+/*--FORMULARIO-------------------*/
+.form{
+    width: 400px;
+    padding: 30px;
+    margin: auto;
+    background: rgba(99, 92, 90, 0.1000);
+    border-radius: 30px 30px;
+}
+/*--TITULO-----------------------*/
+
+/*--CAJAS-DE-DATOS---------------*/
+.cajas{
+    width: 88%;
+    padding: 20px;
+    margin-bottom: 20px;
+   border-radius: 10px 10px;
+   
+   background: rgba(247, 247, 247, 0.534);
+}
+
+/*--BOTON-DE-REGISTRARSE---------*/
+.btn{
+    width: 100%;
+    padding: 15px;
+    border-radius: 2px;
+    border: none;
+    margin: 20px 0;
+    font-size: 15px;
+    background: #434952;
+   
+}
+.btn:hover{
+    background: #ffd000;
+}
+
